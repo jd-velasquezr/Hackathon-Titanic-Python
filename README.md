@@ -1,17 +1,29 @@
-# Proyecto Hackathon de Predicción de Supervivencia del Titanic
+🚢 Titanic Survival Prediction — Hackathon Project
+🧭 Overview
+The sinking of the Titanic remains one of the most infamous maritime disasters in history. On April 15, 1912, during its maiden voyage, the so-called “unsinkable” RMS Titanic struck an iceberg and tragically sank. Due to an insufficient number of lifeboats, 1,502 of the 2,224 passengers and crew lost their lives.
 
-## Resumen
-El hundimiento del Titanic es uno de los naufragios más infames en la historia. El 15 de abril de 1912, durante su viaje inaugural, el ampliamente considerado "inafundible" RMS Titanic se hundió después de chocar con un iceberg. Lamentablemente, no había suficientes botes salvavidas para todos a bordo, lo que resultó en la trágica pérdida de 1502 de los 2224 pasajeros y la tripulación.
+This project aims to answer a compelling question:
+"What kinds of people were more likely to survive the Titanic disaster?"
 
-Este proyecto tiene como objetivo responder a una pregunta fundamental: "¿Qué tipo de personas tenían más probabilidades de sobrevivir al desastre del Titanic?" Utilizamos datos de pasajeros, que incluyen características como nombre, edad, género, clase socioeconómica y más, para construir un modelo predictivo que arroje luz sobre los factores que influyeron en las posibilidades de supervivencia.
+Using data about the passengers — including name, age, gender, socioeconomic class, and more — we build a predictive model to shed light on the key factors that influenced survival outcomes.
 
-## Conjunto de Datos
-El conjunto de datos utilizado en este análisis es el conocido conjunto de datos del Titanic, que contiene información detallada sobre los pasajeros, sus datos demográficos y su estado de supervivencia.
+📊 Dataset
+The analysis is based on the classic Titanic dataset, which contains detailed information about each passenger, including demographic attributes and survival status.
 
-## Estructura del Proyecto
-Este proyecto se organiza en los siguientes componentes clave:
-- **Exploración y Preprocesamiento de Datos:** Inicio de exploración del conjunto de datos, manejando los datos faltantes y preparándolos para el análisis.
-- **Ingeniería de Características:** En esta etapa, se crean nuevas características y posterior a ello, se transforman las existentes para mejorar la capacidad predictiva del modelo.
-- **Construcción del Modelo:** Uso de algoritmos de aprendizaje automático para crear un modelo predictivo basado en los datos.
-- **Evaluación:** Se evalúa el rendimiento del modelo y se pone en consideración varias métricas, como precisión, precisión y recuperación.
-- **Conclusión:** Se resumen los hallazgos, destacando cuáles fueron los factores más influyentes en la determinación de las posibilidades de supervivencia.
+🧱 Project Structure
+This project is organized into the following key components:
+
+🔍 Data Exploration & Preprocessing
+Initial data inspection, handling of missing values, and preparation of the dataset for analysis.
+
+🛠️ Feature Engineering
+Creation of new features and transformation of existing ones to enhance the model's predictive power.
+
+🧠 Model Building
+Implementation of machine learning algorithms to construct a predictive model based on the cleaned dataset.
+
+📈 Evaluation
+Assessment of model performance using multiple metrics such as accuracy, precision, and recall.
+
+📌 Conclusion
+Summary of insights, highlighting the most influential factors that determined a passenger’s chances of survival.
