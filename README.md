@@ -55,5 +55,3 @@ The project is organized into the following components:
 - Git/GitHub
 
 ---
-
-## 📁 Folder Structure
